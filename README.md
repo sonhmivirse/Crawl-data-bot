@@ -56,32 +56,6 @@ https://hongngochospital.vn/tu-dien-co-the/
 
 - https://benhvienvietduc.org/chuyen-muc/tin-y-hoc
 
-### Benh vien thu cuc
-
-- https://benhvienthucuc.vn/song-khoe/tin-tuc-y-khoa/
-- https://benhvienthucuc.vn/song-khoe/benh-co-xuong-khop/
-- https://benhvienthucuc.vn/song-khoe/benh-gan-mat/
-- https://benhvienthucuc.vn/song-khoe/san-khoa/
-- https://benhvienthucuc.vn/song-khoe/benh-ho-hap/
-- https://benhvienthucuc.vn/song-khoe/benh-tai-mui-hong/
-- https://benhvienthucuc.vn/song-khoe/benh-than-kinh/
-- https://benhvienthucuc.vn/song-khoe/benh-tiet-nieu/
-- https://benhvienthucuc.vn/song-khoe/benh-tieu-hoa/
-- https://benhvienthucuc.vn/song-khoe/rang-ham-mat/
-- https://benhvienthucuc.vn/song-khoe/benh-hau-mon-truc-trang/
-- https://benhvienthucuc.vn/song-khoe/benh-tim-mach/
-- https://benhvienthucuc.vn/song-khoe/benh-tre-em/
-- https://benhvienthucuc.vn/song-khoe/benh-ung-thu/
-- https://benhvienthucuc.vn/song-khoe/benh-phu-khoa/
-- https://benhvienthucuc.vn/song-khoe/benh-truyen-nhiem/
-- https://benhvienthucuc.vn/song-khoe/benh-noi-tiet/
-- https://benhvienthucuc.vn/song-khoe/chan-doan-hinh-anh/
-- https://benhvienthucuc.vn/song-khoe/kham-suc-khoe/
-- https://benhvienthucuc.vn/song-khoe/tam-soat-ung-thu-song-khoe/
-- https://benhvienthucuc.vn/song-khoe/benh-ve-mat/
-- https://benhvienthucuc.vn/song-khoe/benh-nam-khoa/
-- https://benhvienthucuc.vn/song-khoe/benh-da-lieu/
-- https://benhvienthucuc.vn/song-khoe/vac-xin-tiem-chung/
 
 ### Benh vien da khoa tam anh
 
