@@ -31,40 +31,6 @@ Reference:
 
 - https://bachmai.gov.vn/bai-viet-chuyen-mon
 
-### Mediplus
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/tieu-hoa
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/co-xuong-khop
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/benh-xa-hoi
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/ho-hap
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/nam-khoa
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/nhi
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/noi-than-kinh
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/noi-ung-buou
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/san-phu-khoa
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/tim-mach
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/covid-19
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/da-lieu
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/xet-nghiem
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/tham-do-chuc-nang
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/tai-mui-hong
-
-- https://www.mediplus.vn/kien-thuc-ve-benh/ky-nang-so-cuu
-
 ### 108
 
 - https://www.benhvien108.vn/duoc-lam-sang.htm#page-5
