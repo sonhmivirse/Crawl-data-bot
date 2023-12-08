@@ -7,8 +7,8 @@ from tqdm import tqdm
 import re
 from pymongo import MongoClient
 from dotenv import load_dotenv
-import multiprocessing
 import concurrent.futures
+from abc import ABC, abstractmethod
 
 from .file import secure_filename, generateUniquePrefix
 
@@ -117,8 +117,43 @@ class ImageCrawlBase:
     def craw_scheduler(self):
         """Crawl scheduler"""
     
+
+class TextCrawler(ABC):        
+    def connect_db(self):
+        try:
+            mongoclient = MongoClient(os.environ["DB_URL"])
+            db = mongoclient["crawl"]
+            print("Successfully connect database!")
+            return db
+        except Exception as e:
+            print("ERROR connect database: ", str(e))
+        
+    @abstractmethod
+    def crawl_url(self, source, summary="", title="", category=""):
+        """Crawl from an url"""
     
-class TextCrawlBase:
+    @abstractmethod
+    def crawl_source(self, source):
+        """Crawl from a parent list source (include pages)"""
+        
+    @abstractmethod
+    def crawl_one_cpu(self, sources=[]):
+        """Crawl with one process"""
+    
+    @abstractmethod
+    def crawl_mp(self, sources=[]):
+        """Crawl with multiprocessing"""
+    
+    @abstractmethod
+    def crawl(self, sources=[]):
+        """Crawl method"""
+            
+    @abstractmethod
+    def craw_scheduler(self):
+        """Crawl scheduler"""
+
+
+class VinmecCrawler:
     def __init__(self, is_multi_process=False, max_workers=8):
         self.db = self.connect_db()
         self.is_multi_process = is_multi_process
