@@ -82,7 +82,6 @@ class MedlatecCrawler(TextCrawler):
                 soup = BeautifulSoup(page_html, 'html.parser')
                 # Find the ul tag inside the post_list_div
                 list_items = soup.select("div.post-list div.post-item-details")
-                print(list_items)
                 for item in list_items:
                     wrapper = item.find("h3", {"class": "post-item-title"})
                     link_wrapper = wrapper.find("a")
