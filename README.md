@@ -52,11 +52,6 @@ https://hongngochospital.vn/tu-dien-co-the/
 - http://benhviendaihocyhanoi.com/bai-viet/suc-khoe-cong-dong/dinh-duong-dung-thuoc
 - http://benhviendaihocyhanoi.com/bai-viet/suc-khoe-cong-dong/tu-van-giai-dap
 
-### Benh vien viet duc
-
-- https://benhvienvietduc.org/chuyen-muc/tin-y-hoc
-
-
 ### Benh vien da khoa tam anh
 
 - https://tamanhhospital.vn/chuyen-khoa/trung-tam-ho-tro-sinh-san-ivfta/
